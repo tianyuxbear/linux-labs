@@ -1,2 +1,4 @@
 linux-2025.zip
 linux-2025/
+.cache
+build/
