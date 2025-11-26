@@ -1,0 +1,5 @@
+add_executable(lab2-test1 v1/test1.cpp)
+add_executable(lab2-test2 v2/test2.cpp)
+add_executable(lab2-test3 v3/test3.cpp)
+add_executable(lab2-test4 v4/test4.cpp)
+add_executable(lab2-test5 v5/test5.cpp)
