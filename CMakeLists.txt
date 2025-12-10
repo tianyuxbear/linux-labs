@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.20)
 
 # Project configuration
-project(linux-course LANGUAGES CXX)
+project(linux-course-labs LANGUAGES CXX)
 
 # Set C++ standard
 set(CMAKE_CXX_STANDARD 17)
